@@ -7,6 +7,14 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "../CMakeLists.txt"
+  "CMakeFiles/3.18.4/CMakeASMCompiler.cmake"
+  "CMakeFiles/3.18.4/CMakeCCompiler.cmake"
+  "CMakeFiles/3.18.4/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.18.4/CMakeSystem.cmake"
+  "elf2uf2/tmp/ELF2UF2Build-cfgcmd.txt.in"
+  "pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/PioasmBuild-cfgcmd.txt.in"
+  "../pico_sdk_import.cmake"
   "/home/pi/pico/pico-sdk/CMakeLists.txt"
   "/home/pi/pico/pico-sdk/cmake/Platform/PICO.cmake"
   "/home/pi/pico/pico-sdk/cmake/pico_pre_load_platform.cmake"
@@ -110,14 +118,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/pi/pico/pico-sdk/tools/CMakeLists.txt"
   "/home/pi/pico/pico-sdk/tools/FindELF2UF2.cmake"
   "/home/pi/pico/pico-sdk/tools/FindPioasm.cmake"
-  "../CMakeLists.txt"
-  "CMakeFiles/3.18.4/CMakeASMCompiler.cmake"
-  "CMakeFiles/3.18.4/CMakeCCompiler.cmake"
-  "CMakeFiles/3.18.4/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.18.4/CMakeSystem.cmake"
-  "elf2uf2/tmp/ELF2UF2Build-cfgcmd.txt.in"
-  "pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/tmp/PioasmBuild-cfgcmd.txt.in"
-  "../pico_sdk_import.cmake"
   "/usr/share/cmake-3.18/Modules/CMakeASMInformation.cmake"
   "/usr/share/cmake-3.18/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake"
@@ -241,7 +241,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/ELF2UF2Build.dir/DependInfo.cmake"
-  "CMakeFiles/pico-FOREHEAD.dir/DependInfo.cmake"
+  "CMakeFiles/pico-UUBUS.dir/DependInfo.cmake"
   "pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_padded_checksummed_asm.dir/DependInfo.cmake"
   "pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default_bin.dir/DependInfo.cmake"
   "pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/DependInfo.cmake"
